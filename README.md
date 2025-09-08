@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I am Sai Sarvagna B</h1>
-<h3 align="center">B.Tech student with a passion for cloud services (AWS) seeking to learn and contribute to cloud computing projects.</h3>
+<h3 align="center">Masters student with a passion for  Machine Learning, AI, cloud services seeking to learn and contribute to projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagna23&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagna23" /> </p>
 
-- 🔭 I’m currently working on **Micro-expression Recognition**
 
 - 🌱 I’m currently learning **AWS, ML, DevOps, Figma**
 
-- 👯 I’m looking to collaborate on **AWS Services** 
 - 👨‍💻 CHeckout my portfolio! crafted with versatile Figma tool. Open with desktop to fully appreciate the seamless blend of aesthetics meeting the usability, and ideas come to life.!! [https://www.figma.com/proto/4p0D3SBYd7n4TVp0pEkwF4/Portfolio?node-id=76-29&t=78zboetbg09w4B90-1](https://www.figma.com/proto/4p0D3SBYd7n4TVp0pEkwF4/Portfolio?node-id=76-29&t=78zboetbg09w4B90-1)
 
 - 📫 How to reach me **saisarvagna023@gmail.com**
