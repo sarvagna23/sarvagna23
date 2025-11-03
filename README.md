@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Sarvagna B</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack & Front-End Development | Graduate Student & Teaching Assistant @ Georgia State University</h3>
+<h1 align="center">Hey 👋, I'm Sai Sarvagna</h1>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Development | Graduate Student & Teaching Assistant @ Georgia State University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarvagna23&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagna23" />
@@ -7,57 +7,51 @@
 
 ---
 
-🎓 **Graduate Computer Science Student** at *Georgia State University*  
-💻 **Teaching Assistant** | Passionate about **building scalable, secure, and user-friendly applications**  
-🧩 Skilled in **Java, Python, React, Node.js, and SQL** with strong foundations in **OOP, DSA, and System Design**  
-☁️ Experienced with **AWS Cloud**, **Docker**, and **REST API development**  
-🎨 Enjoy designing clean interfaces with **Figma**, **Bootstrap**, and **responsive web layouts**  
-🎯 Actively seeking **Software Development Engineer (SDE)** or **Full-Stack Developer** roles  
+I’m a **Computer Science grad student** and **Teaching Assistant** at *Georgia State University*, building my path toward becoming a **Full-Stack Software Engineer**.  
+I enjoy turning ideas into products that are clean, scalable, and actually useful.  
+
+Currently exploring **cloud services (AWS)**, **modern web frameworks**, and **DevOps workflows** — aiming to bridge strong CS fundamentals with real-world development.  
 
 ---
 
-### 🧠 Core Skills  
-
-#### 💻 Programming & Development  
-- **Languages:** Java, Python, JavaScript, C++, SQL  
-- **Frameworks & Libraries:** React.js, Node.js, Express.js, Flask  
-- **Front-End:** HTML5, CSS3, Bootstrap, Tailwind CSS, Figma  
-
-#### ⚙️ Backend & Databases  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **APIs:** RESTful API design and integration  
-- **Authentication:** JWT, OAuth  
-
-#### ☁️ Cloud & DevOps  
-- **Platforms:** AWS (EC2, S3, Lambda), Docker, GitHub Actions  
-- **Version Control:** Git, GitHub  
-
-#### 🧩 Computer Science Foundations  
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- System Design & Architecture  
+### 💡 What I Do
+- Build full-stack web apps using **React, Node.js, Express, and SQL**
+- Design and connect **RESTful APIs**  
+- Work with **Java** and **Python** for backend logic & scripting  
+- Explore **AWS**, **Docker**, and **CI/CD** for deployment  
+- Create responsive, user-friendly UIs with **HTML, CSS, and Figma**
 
 ---
 
-### 📫 How to Reach Me  
-📧 **saisarvagna023@gmail.com**
+### 🧠 Tech Stack
+
+**Languages:**  
+Java • Python • JavaScript • C++ • SQL  
+
+**Frontend:**  
+React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Figma  
+
+**Backend:**  
+Node.js • Express.js • Flask • REST APIs  
+
+**Databases:**  
+MySQL • PostgreSQL • MongoDB  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, Lambda) • Docker • GitHub Actions  
+
+**Core Concepts:**  
+Object-Oriented Programming • Data Structures & Algorithms • System Design
 
 ---
 
-### 🤝 Connect with Me  
+### 📬 Get in Touch  
+📧 **saisarvagna023@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/sarvagna023) • [Instagram](https://instagram.com/sarvagnaaaa)
+
+---
+
 <p align="left">
-<a href="https://linkedin.com/in/sarvagna023" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvagna023" height="30" width="40" />
-</a>
-<a href="https://instagram.com/saisarvagnaa" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvagnaaaa" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🧰 Languages & Tools  
-<p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -82,20 +76,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
 </p>
 
 ---
 
-⭐️ *"Code with clarity, design with empathy, and build with purpose."*
+⭐ *Always building, always learning.*
