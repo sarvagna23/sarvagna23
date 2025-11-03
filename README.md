@@ -47,7 +47,7 @@ Object-Oriented Programming • Data Structures & Algorithms • System Design
 
 ### 📬 Get in Touch  
 📧 **saisarvagna023@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/sarvagna023) • [Instagram](https://instagram.com/saisarvagnaa)
+🔗 [LinkedIn](https://linkedin.com/in/saisarvagna023) • [Instagram](https://instagram.com/saisarvagnaa)
 
 ---
 
