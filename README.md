@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sai Sarvagna</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Development | Graduate Student & Teaching Assistant @ Georgia State University</h3>
+<h3 align="center">MS CS @ Georgia State University | AI Engineer | LangGraph • LLMs • Python • AWS Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarvagna23&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagna23" />
@@ -7,77 +7,62 @@
 
 ---
 
-I’m a **Computer Science grad student** and **Teaching Assistant** at *Georgia State University*, building my path toward becoming a **Full-Stack Software Engineer**.  
-I enjoy turning ideas into products that are clean, scalable, and actually useful.  
+I'm a **Computer Science grad student** and **Teaching Assistant** at *Georgia State University*, graduating December 2026. I build production-grade AI systems — from multi-agent LangGraph platforms to ML pipelines processing millions of records.
 
-Currently exploring **cloud services (AWS)**, **modern web frameworks**, and **DevOps workflows** — aiming to bridge strong CS fundamentals with real-world development.  
+I use **Claude Code** and **GitHub Copilot** daily as core parts of how I work. I shipped 5 production projects in the past 3 months and published ML research at **Springer ICCIDA-2024**.
 
 ---
 
-### 💡 What I Do
-- Build full-stack web apps using **React, Node.js, Express, and SQL**
-- Design and connect **RESTful APIs**  
-- Work with **Java** and **Python** for backend logic & scripting  
-- Explore **AWS**, **Docker**, and **CI/CD** for deployment  
-- Create responsive, user-friendly UIs with **HTML, CSS, and Figma**
+### 🚀 What I'm Building
+
+- **Multi-agent AI systems** using LangGraph, LangChain, and Claude API
+- **ML pipelines** with Python, PyTorch, XGBoost, scikit-learn
+- **Full-stack applications** with React, TypeScript, FastAPI, PostgreSQL
+- **Cloud infrastructure** with AWS, Docker, Terraform, GitHub Actions CI/CD
+- **RAG pipelines** with vector databases and prompt engineering
+
+---
+
+### 🔥 Recent Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [Enterprise AI Agent Platform](https://github.com/sarvagna23/enterprise-ai-platform) | LangGraph + Claude API + FastAPI + AWS | Multi-agent orchestration with RAG pipeline |
+| [LangGraph ML Platform](https://github.com/sarvagna23/langraph-ml-platform) | React + TypeScript + LangGraph + PostgreSQL | Full-stack ML experiment tracking with AI agents |
+| [Flight Delay Prediction](https://github.com/sarvagna23/flight-delay-prediction) | XGBoost + SQL + FastAPI + PostgreSQL + AWS | ML model on 2M+ BTS flight records |
+| [CI/CD Automation Pipeline](https://github.com/sarvagna23/cicd-pipeline) | GitHub Actions + Docker + Terraform + AWS | Full pipeline in under 2 minutes |
+| [Fraud Detection](https://github.com/sarvagna23/fraud-detection) | XGBoost + FastAPI + PostgreSQL + AWS | 96.59% accuracy on 1.85M records |
 
 ---
 
 ### 🧠 Tech Stack
 
-**Languages:**  
-Java • Python • JavaScript • C++ • SQL  
+**AI and ML:**
+Python • PyTorch • scikit-learn • XGBoost • LangGraph • LangChain • Claude API • OpenAI API • RAG pipelines • Prompt Engineering
 
-**Frontend:**  
-React.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS • Figma  
+**Full Stack:**
+React • TypeScript • FastAPI • Node.js • REST APIs • PostgreSQL • SQL
 
-**Backend:**  
-Node.js • Express.js • Flask • REST APIs  
+**Cloud and DevOps:**
+AWS (certified) • Docker • Terraform • GitHub Actions • CI/CD • CloudWatch • Linux
 
-**Databases:**  
-MySQL • PostgreSQL • MongoDB  
-
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda) • Docker • GitHub Actions  
-
-**Core Concepts:**  
-Object-Oriented Programming • Data Structures & Algorithms • System Design
+**AI Dev Tools:**
+Claude Code • GitHub Copilot • Cursor
 
 ---
 
-### 📬 Get in Touch  
-📧 **saisarvagna023@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/saisarvagna023) • [Instagram](https://instagram.com/saisarvagnaa)
+### 📚 Research
+
+**Improved XGBoost Classifier for Micro Expression Recognition**
+Published at Springer ICCIDA-2024 — computer vision ML pipeline with rigorous experimental validation.
 
 ---
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-</p>
+### 📬 Get in Touch
+
+📧 saisarvagna023@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/saisarvagna023) • [GitHub](https://github.com/sarvagna23)
 
 ---
 
-⭐ *Always building, always learning.*
+⭐ *Building AI systems that actually ship.*
