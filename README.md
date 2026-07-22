@@ -29,7 +29,6 @@ I use **Claude Code** and **GitHub Copilot** daily as core parts of how I work. 
 |---|---|---|
 | [Inventory Management System](https://github.com/sarvagna23/inventory-management) | React TS + Spring Boot + Node.js + GraphQL + Supabase | Full-stack enterprise app with JWT auth, GraphQL API, real-time stock alerts |
 | [E-Commerce Data Pipeline](https://github.com/sarvagna23/ecommerce-pipeline) | Kafka + Airflow + PySpark + Databricks + dbt + MLflow | End-to-end pipeline processing 500K+ records, XGBoost forecasting R2: 0.998 |
-| [IoT System Health Monitor](https://github.com/sarvagna23/iot-health-monitor) | FastAPI + SQLAlchemy + CloudWatch + Streamlit + Docker | Real-time 25-device fleet monitoring with automated alerting |
 | [Enterprise AI Agent Platform](https://github.com/sarvagna23/enterprise-ai-platform) | LangGraph + Claude API + FAISS + FastAPI + AWS | 4-agent orchestration with RAG pipeline |
 | [LangGraph ML Platform](https://github.com/sarvagna23/langraph-ml-platform) | React TS + LangGraph + MCP Server + FastAPI + PostgreSQL | Full-stack ML experiment tracking with AI agents |
 | [Fraud Detection](https://github.com/sarvagna23/fraud-detection) | XGBoost + FastAPI + PostgreSQL + AWS | 99.84% accuracy on 1.85M records, sub-100ms inference |
